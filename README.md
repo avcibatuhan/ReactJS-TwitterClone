@@ -1,15 +1,20 @@
-# Getting Started with Create React App
+# Using Technologies
+
+The project was created using technologies such as ReactJS, JavaScript, CSS and FireBase.
 
 Project is live [Here](https://twitter-clone-86e24.web.app/).
 
-## Available Scripts
+# If you want to clone the project you should
 
-In the project directory, you can run:
+1- Sign in the FireBase
 
-### `npm start`
+2- Create an App.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3- Get 'firebaseConfig' constant variable from the FireBase.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4- Paste it 'firebase.js' in src folder.
+
+5- Create a collection in FireStore which name as 'posts'.
+
+5- and run `npm start`
+
