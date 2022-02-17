@@ -21,3 +21,7 @@ Project is live [Here](https://twitter-clone-86e24.web.app/).
 6- If you want to deploy it to Firebase, you can follow instructions [here](https://firebase.google.com/docs/hosting).
 
 Have Fun!
+
+# Screenshot from live App
+
+![twitterCloneLive](https://user-images.githubusercontent.com/43846788/154472638-bb6e3578-808c-417b-a676-90b43b35e11c.png)
